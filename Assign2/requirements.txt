@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchaudio>=2.0.0
+loralib>=0.1.1
+tqdm>=4.64.1
+scikit-learn>=1.2.2
+numpy>=1.23.5
+soundfile>=0.12.1
+
+
+mir_eval=0.8.2
+speechbrain=1.0.2
+pesq=0.0.4
